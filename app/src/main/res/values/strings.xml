@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">per1_mockup_login</string>
+    <string name="title_login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="register">New member? <font color="#525BFF">Register</font></string>
+</resources>
